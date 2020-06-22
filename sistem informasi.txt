@@ -2,4 +2,3 @@ Sistem informasi
 1. CRUD Siswa
 2. CRUD Guru
 3. CRUD Pelajaran
-4. CRUD Kelas
